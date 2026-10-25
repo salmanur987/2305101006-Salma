@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Kontenin</string>
+
+    <!-- MainActivity -->
+    <string name="header_title">Galeri Kontenin</string>
+    <string name="header_subtitle">Koleksi momen pernikahan pilihan</string>
+    <string name="foto_label">Foto %1$d</string>
+    <string name="toast_foto">Kamu memilih Foto %1$d</string>
+
+    <!-- Menu -->
+    <string name="menu_second">Halaman Kedua</string>
+    <string name="menu_share">Bagikan</string>
+    <string name="menu_about">Tentang</string>
+    <string name="toast_about">Kontenin - pencatat job untuk wedding content creator</string>
+    <string name="share_text">Lihat galeri Kontenin!</string>
+    <string name="share_chooser">Bagikan lewat</string>
+
+    <!-- SecondActivity -->
+    <string name="second_title">Halaman Kedua</string>
+    <string name="second_default_message">Halo dari Kontenin</string>
+    <string name="second_message_from_main">Halo! Pesan ini dikirim dari MainActivity lewat Intent.</string>
+    <string name="btn_back">Kembali ke Galeri</string>
+</resources>
