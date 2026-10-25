@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kontenin_modul_3</string>
+    <string name="header_title">Kontenin</string>
+    <string name="header_subtitle">Galeri portofolio konten pernikahan</string>
+    <string name="item_label">Foto %1$d</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Kontenin_modul_3" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/kontenin_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/kontenin_secondary</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorError">@color/kontenin_error</item>
+        <item name="android:colorBackground">@color/kontenin_background</item>
+        <item name="colorSurface">@color/kontenin_surface</item>
+        <item name="colorOnBackground">@color/kontenin_on_background</item>
+        <item name="colorOnSurface">@color/kontenin_on_background</item>
+    </style>
+</resources>
